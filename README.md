@@ -9,8 +9,9 @@
     
 # Trophys 🏆
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TempAccountNull&show_icons=true&theme=radical&include_all_commits=true&count_private=true&margin-w=45&margin-h=15" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TempAccountNull&layout=compact&theme=radical&margin-w=45&margin-h=200" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TempAccountNull&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&margin-w=45&margin-h=15" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TempAccountNull&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TempAccountNull&layout=compact&theme=midnight-purple&margin-w=45&margin-h=200" />
     <br>
     <img height="260em" src="https://github-trophies.vercel.app/?username=TempAccountNull&theme=radical&margin-w=45&margin-h=15" alt="TempAccountNull" /> 
 </div>     
